@@ -12,7 +12,7 @@ public class bus {
 	}
 	
 	 public int  getCapacity(){//accessor method
-		retpurn capacity;
+		return capacity;
 	}
      public void setCapacity(int cap) {//mutator
     	 capacity = cap;
